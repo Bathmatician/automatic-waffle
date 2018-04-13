@@ -3,6 +3,8 @@
 
 # I know there is more efficient ways to do this with more variety. This is just practice for a beginner.
 
+causingAnError()
+
 def tipCalculatorStart():
 	""" Announces welcome message and starts the program """
 	print ("Welcome to Bathmatician's Tip Calculator (v2.0)")
